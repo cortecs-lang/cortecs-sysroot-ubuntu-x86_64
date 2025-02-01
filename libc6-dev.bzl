@@ -510,7 +510,6 @@ LIBC6_DEV_OUTS = [
     "usr/lib/x86_64-linux-gnu/libBrokenLocale.so",
     "usr/lib/x86_64-linux-gnu/libanl.so",
     "usr/lib/x86_64-linux-gnu/libcrypt.so",
-    "usr/lib/x86_64-linux-gnu/libdl.so",
     "usr/lib/x86_64-linux-gnu/libmvec.so",
     "usr/lib/x86_64-linux-gnu/libnsl.so",
     "usr/lib/x86_64-linux-gnu/libnss_compat.so",
