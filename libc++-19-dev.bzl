@@ -1157,7 +1157,6 @@ LIBCXX_19_DEV_OUTS = [
     "usr/lib/llvm-19/share/libc++/v1/std.compat/cwctype.inc",
     "usr/lib/llvm-19/share/libc++/v1/std.compat.cppm",
     "usr/lib/llvm-19/share/libc++/v1/std.cppm",
-    "usr/include/c++/v1",
     "usr/lib/x86_64-linux-gnu/libc++.a",
     "usr/lib/x86_64-linux-gnu/libc++experimental.a",
 ]
